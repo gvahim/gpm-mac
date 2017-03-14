@@ -1,1 +1,1 @@
-# gpm-mac
+# Gvahim Package Manager for macOS
